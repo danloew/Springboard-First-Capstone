@@ -7,13 +7,19 @@ The 11 Jupyter notebooks that are needed to run the project are located at the f
   - Data Cleaning for Cannabis Crimes: https://github.com/danloew/Springboard-First-Capstone/blob/master/1st_Capstone_Data_Cleaning_cannabis_Daniel_Loew_Final.ipynb
   
     -The file name is '1st_Capstone_Data_Cleaning_cannabis_Daniel_Loew_Final.ipynb'.
+    
     -This notebook uses the original open-source dataset of all crimes in New York City, which is available on the NYC Open 
      Data Project at https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
+     
     -It also uses a file of all NYC subway entrances, available at the following link: https://data.ny.gov/widgets/i9wp-a4ja
+    
     -This notebook generates the 'nyc_cann_for_EDA.csv' and 'nyc_cann_EDA_race_reported.csv' files, which are used in the Data      Story & EDA Jupyter notebook.
+    
     -This notebook also generates the 'nyc_cann_HT_sample.csv' file, for use in the Statistical Data Analysis notebook.
+    
     -This notebook also generates the 'nyc_cann_ml_alt.csv' file, for use in the second through seventh Machine Learning      
      Jupyter notebooks.
+     
     -This notebook also generates the 'nyc_cann_for_ML.csv' file, for use in the Data Cleaning for Non-Cannabis Crimes Jupyter 
     notebook.
     
