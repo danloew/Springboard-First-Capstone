@@ -5,6 +5,7 @@ Title: "Targets: Using Machine Learning Classification Models to Identify Salien
 
 The 11 Jupyter notebooks that are needed to run the project are located at the following links:
   - Data Cleaning for Cannabis Crimes: https://github.com/danloew/Springboard-First-Capstone/blob/master/1st_Capstone_Data_Cleaning_cannabis_Daniel_Loew_Final.ipynb
+  
     -The file name is '1st_Capstone_Data_Cleaning_cannabis_Daniel_Loew_Final.ipynb'.
     -This notebook uses the original open-source dataset of all crimes in New York City, which is available on the NYC Open 
      Data Project at https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
