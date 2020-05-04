@@ -1,5 +1,6 @@
 # Springboard-First-Capstone
 Full Code, Report, and Slide Deck for Daniel Loew's First Springboard Capstone Project
+
 Title: "Targets: Using Machine Learning Classification Models to Identify Salient Predictors of Cannabis Arrests in New York City, 2006-2018"
 
 - The 11 Jupyter notebooks that are needed to run the project are located at the following links:
