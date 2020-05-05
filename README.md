@@ -57,7 +57,7 @@ The 11 Jupyter notebooks that are needed to run the project are located at the f
 - Machine Learning Classification Part II through VII - Possession and Sales, Misdemeanor Possession, Violation Possession, Felony Possession, Misdemeanor Sales, and Felony Sales
 
   - The file names are '10.6_First_Capstone_ML_part_II_possession_v_sales.ipynb', '10.6_First_Capstone_ML_part_III_misdemeanor_possession_final.ipynb', '10.6_First_Capstone_ML_part_III_violation_possession_final.ipynb', '10.6_First_Capstone_ML_part_III_felony_possession_final.ipynb', '10.6_First_Capstone_ML_part_III_misdemeanor_sales_final.ipynb', and '10.6_First_Capstone_ML_part_III_felony_sales_final.ipynb'.
-  - This notebbok uses the 'nyc_cann_for_ml.csv' file.
+  - These notebooks use the 'nyc_cann_for_ml.csv' file.
   
 - The URL detailing the NYPD's police precincts, which is used throughout the project, is located here: https://www1.nyc.gov/site/nypd/bureaus/patrol/precincts-landing.page
 - The URL detailing the NYC transit districts, which is used throughout the project, is located here: www1.nyc.gov/site/nypd/bureaus/transit-housing/transit.page
