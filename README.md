@@ -60,10 +60,28 @@ The 11 Jupyter notebooks that are needed to run the project are located at the f
   - These notebooks use the 'nyc_cann_for_ml.csv' file.
   
 - The URL detailing the NYPD's police precincts, which is used throughout the project, is located here: https://www1.nyc.gov/site/nypd/bureaus/patrol/precincts-landing.page
-- The URL detailing the NYC transit districts, which is used throughout the project, is located here: www1.nyc.gov/site/nypd/bureaus/transit-housing/transit.page 
+- The URL detailing the NYC transit districts, which is used throughout the project, is located here: https://www1.nyc.gov/site/nypd/bureaus/transit-housing/transit.page 
 
 - The file called "requirements.rtf" details all of the software requirements needed to run the Jupyter notebooks. This file is divided into a section for each of the 11 Jupyter notebooks.
-- Reports: names and links to them
-- Slide Deck: name and link on Google Docs
+
+Links to the Interim Reports, Final Report, and Slide Deck are below:
+- Project Ideas Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Project%20Ideas.docx
+
+- Project Proposal Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Project%20Proposal.docx
+
+- Data Cleaning and Wrangling Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Data%20Wrangling.docx
+
+- Data Story and EDA Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Data%20Story.docx
+
+- Statistical Data Analysis Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Statistical%20Data%20Analysis.docx
+
+- Milestone Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Milestone%20Report.docx
+
+- In-depth Analysis and Machine Learning: https://github.com/danloew/Springboard-First-Capstone/blob/master/Capstone%20Project%201_%20In-depth%20Analysis%20and%20Machine%20Learning_Daniel%20Loew.docx
+
+- Overall Capstone Project Report: [insert link after putting slide deck link in it]
+
+- Presentation Slide Deck: [insert link]
+
 - instruction on how to repeat your code
 - very brief synopsis of results: reference to reports and section names, most likely. writing anything up here would be too much, I think
