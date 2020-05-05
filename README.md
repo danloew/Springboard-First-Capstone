@@ -60,7 +60,8 @@ The 11 Jupyter notebooks that are needed to run the project are located at the f
   - These notebooks use the 'nyc_cann_for_ml.csv' file.
   
 - The URL detailing the NYPD's police precincts, which is used throughout the project, is located here: https://www1.nyc.gov/site/nypd/bureaus/patrol/precincts-landing.page
-- The URL detailing the NYC transit districts, which is used throughout the project, is located here: www1.nyc.gov/site/nypd/bureaus/transit-housing/transit.page
+- The URL detailing the NYC transit districts, which is used throughout the project, is located here: www1.nyc.gov/site/nypd/bureaus/transit-housing/transit.page 
+
 - The file called "requirements.rtf" details all of the software requirements needed to run the Jupyter notebooks. This file is divided into a section for each of the 11 Jupyter notebooks.
 - Reports: names and links to them
 - Slide Deck: name and link on Google Docs
