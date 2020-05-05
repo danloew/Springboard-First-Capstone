@@ -81,6 +81,6 @@ Links to the Interim Reports, Final Report, and Slide Deck are below:
 
 - In-depth Analysis and Machine Learning: https://github.com/danloew/Springboard-First-Capstone/blob/master/Capstone%20Project%201_%20In-depth%20Analysis%20and%20Machine%20Learning_Daniel%20Loew.docx
 
-- Overall Capstone Project Report: https://docs.google.com/document/d/1zzwQRf3yfwanfMiCgzVoy8QaEUu3MJjYgGyIFA4weo0/edit?usp=sharing
+- Overall Capstone Project Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Overall%20Capstone%201%20Project_Daniel%20Loew.pdf
 
 - Presentation Slide Deck: https://docs.google.com/presentation/d/1Tsno2V6mdiIv5j04ikVXX5ZFqq5gsULlFlDXnczozT4/edit?usp=sharing
