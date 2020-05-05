@@ -3,6 +3,8 @@ Full Code, Report, and Slide Deck for Daniel Loew's First Springboard Capstone P
 
 Title: "Targets: Using Machine Learning Classification Models to Identify Salient Predictors of Cannabis Arrests in New York City, 2006-2018"
 
+This project uses publicly available data from the NYPD to build predictive machine learning classification models of cannabis crime and its subtypes, providing Logistic Regression coefficients which illuminate the features that have the strongest statistical relationship with these crimes. The Jupyter notebooks, data sources, technical requirements for reproducing the results, and reports for this project are specified below. The results of this project, including evaluation metrics of the machine learning models and Logistic Regression coefficients, are reported in the Overall Capstone Project Report linked to below. 
+
 The 11 Jupyter notebooks that are needed to run the project are located at the following links:
   - Data Cleaning for Cannabis Crimes: https://github.com/danloew/Springboard-First-Capstone/blob/master/1st_Capstone_Data_Cleaning_cannabis_Daniel_Loew_Final.ipynb
   
@@ -82,6 +84,3 @@ Links to the Interim Reports, Final Report, and Slide Deck are below:
 - Overall Capstone Project Report: [insert link after putting slide deck link in it]
 
 - Presentation Slide Deck: [insert link]
-
-- instruction on how to repeat your code
-- very brief synopsis of results: reference to reports and section names, most likely. writing anything up here would be too much, I think
