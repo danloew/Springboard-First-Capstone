@@ -34,7 +34,7 @@ The 11 Jupyter notebooks that are needed to run the project are located at the f
     
     - This notebook also generates the 'nyc_non_cann_sample.csv' file for use in the Data Story & EDA notebook.
     
-    - This notebook also generates the 'nyc_non_cann_for_ML.csv' file, and concatenates it with the 'nyc_cann_ml_alt.csv' file, which is then exported to the 'concat_cann_non_cann_for_ml.csv' fie for use in the first Machine Learning Jupyter notebook.
+    - This notebook also generates the 'nyc_non_cann_for_ML.csv' file, and concatenates it with the 'nyc_cann_ml_alt.csv' file, which is then exported to the 'concat_cann_non_cann_for_ml.csv' file for use in the first Machine Learning Jupyter notebook.
 
   - Data Story & EDA: https://github.com/danloew/Springboard-First-Capstone/blob/master/7.2%20First%20Capstone%20Data%20Story%20%26%20EDA%20Final.ipynb
    
