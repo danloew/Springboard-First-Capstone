@@ -77,7 +77,7 @@ Links to the Interim Reports, Final Report, and Slide Deck are below:
 
 - Statistical Data Analysis Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Statistical%20Data%20Analysis.docx
 
-- Milestone Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Milestone%20Report.docx
+- Milestone Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Milestone%20Report.pdf
 
 - In-depth Analysis and Machine Learning: https://github.com/danloew/Springboard-First-Capstone/blob/master/Capstone%20Project%201_%20In-depth%20Analysis%20and%20Machine%20Learning_Daniel%20Loew.docx
 
