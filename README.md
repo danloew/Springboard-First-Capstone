@@ -67,9 +67,9 @@ The 11 Jupyter notebooks that are needed to run the project are located at the f
 - The file called "requirements.rtf" details all of the software requirements needed to run the Jupyter notebooks. This file is divided into a section for each of the 11 Jupyter notebooks.
 
 Links to the Interim Reports, Final Report, and Slide Deck are below:
-- Project Ideas Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Project%20Ideas.docx
+- Project Ideas Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Project%20Ideas.pdf
 
-- Project Proposal Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Project%20Proposal.docx
+- Project Proposal Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Project%20Proposal.pdf
 
 - Data Cleaning and Wrangling Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Data%20Wrangling.pdf
 
