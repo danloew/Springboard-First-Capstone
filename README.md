@@ -71,7 +71,7 @@ Links to the Interim Reports, Final Report, and Slide Deck are below:
 
 - Project Proposal Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Project%20Proposal.docx
 
-- Data Cleaning and Wrangling Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Data%20Wrangling.docx
+- Data Cleaning and Wrangling Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Data%20Wrangling.pdf
 
 - Data Story and EDA Report: https://github.com/danloew/Springboard-First-Capstone/blob/master/Project_%20Capstone%20Project%201_%20Data%20Story.docx
 
