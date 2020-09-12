@@ -90,4 +90,4 @@ Links to the Interim Reports, Final Report, and Slide Deck are below:
 
 - Overall Capstone Project Report: https://github.com/danloew/SpringboardFirstCapstone/blob/master/SB_Project1_Targets_Overall_Report_Daniel_Loew.pdf
 
-- Presentation Slide Deck: https://github.com/danloew/SpringboardFirstCapstone/blob/master/Targets_%20Using%20Machine%20Learning%20Classification%20Models%20to%20Identify%20Salient%20Predictors%20of%20Cannabis%20Arrests%20in%20New%20York%20City%2C%202006-2018.pdf
+- Presentation Slide Deck: https://github.com/danloew/SpringboardFirstCapstone/blob/master/Targets%20-%20Using%20Machine%20Learning%20Classification%20Models%20to%20Identify%20Salient%20Predictors%20of%20Cannabis%20Arrests%20in%20New%20York%20City%2C%202006-2018.pdf
